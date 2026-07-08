@@ -138,7 +138,7 @@ public class Dharaneeswaran {
 |:---:|:---|:---|
 | 🤖 | **Introduction to AI & ML** | Infosys SpringBoard — certified in AI/ML fundamentals |
 | ☕ | **Java Introduction** | Infosys SpringBoard — certified in core Java programming |
-| 🌐 | **Responsive Web Design** | freeCodeCamp — certified in modern responsive web development |
+| 🌐 | **Data Analytics Job Simulation** | Deloitte — certified in Data Analytics |
 
 </div>
 

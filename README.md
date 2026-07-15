@@ -150,7 +150,7 @@ public class Dharaneeswaran {
 
 | 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
 |:---|:---|:---:|:---:|
-| B.E. Computer Science & Engineering | VSB College of Engineering Technical Campus, Coimbatore | 2022 – 2026 | CGPA 8.2 |
+| B.E. Computer Science & Engineering | VSB College of Engineering Technical Campus, Coimbatore | 2022 – 2026 | CGPA 8.4 |
 
 </div>
 
